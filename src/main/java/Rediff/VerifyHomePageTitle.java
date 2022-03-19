@@ -8,6 +8,7 @@ public class VerifyHomePageTitle {
 	public void openBrowser()
 	{
 		System.out.println("Launch Application");
+		System.out.println("Welcome to Git Repository...");
 	}
 	@Test(priority=2)
 	public void checkTitle()
